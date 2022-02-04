@@ -17,8 +17,7 @@ select and use any file transfer like Google Drive or MEGA
 Method 2: open Filza > Gear under the screen > Turn on WebDAV Server
 
 if you see like: Listening at http://192.168.1.XX:11111
-
-                 Listening at http://[your name].local:11111
+             or  Listening at http://[your name].local:11111
                  
 using Computer, enter that address
 
